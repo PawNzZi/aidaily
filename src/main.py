@@ -20,6 +20,6 @@ def spider_ai_daily() -> str:
 #
 #     """
 #     return
-
+  
 if __name__ == "__main__":
     app.run(transport='stdio')
