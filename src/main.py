@@ -6,7 +6,7 @@ app = FastMCP('spider')
 
 @app.tool()
 def spider_ai_daily() -> str:
-    """ AI日报爬取 """
+    """ AI日报生成 """
     spider = NewsSpider()
     content = spider.extract_news_article()
 
@@ -20,6 +20,6 @@ def spider_ai_daily() -> str:
 #
 #     """
 #     return
-  
+
 if __name__ == "__main__":
     app.run(transport='stdio')
