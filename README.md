@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/pawnzzi-aidaily-badge.png)](https://mseep.ai/app/pawnzzi-aidaily)
+
 # MCP Demo
 [![smithery badge](https://smithery.ai/badge/@PawNzZi/aidaily)](https://smithery.ai/server/@PawNzZi/aidaily)
 
